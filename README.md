@@ -32,6 +32,7 @@ Source code of the file avaiable<br>
 
 ### <p align="center">🔌 Utilisation 🔌</p><br>
   
+* Change WEBHOOK URL on line 10
 * Put the URL on the file `url.txt`
   <br><br>
  <img src="https://i.imgur.com/Tfjy3yA.png">
