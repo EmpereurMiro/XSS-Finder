@@ -32,9 +32,9 @@ Source code of the file avaiable<br>
 
 ### <p align="center">🔌 Utilisation 🔌</p><br>
   
-* Enter the file with url
+* Put the URL on the file `url.txt`
   <br><br>
- <img src="https://i.imgur.com/ZAR6yeD.png">
+ <img src="https://i.imgur.com/Tfjy3yA.png">
 <br>
   
 -----
